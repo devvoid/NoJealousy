@@ -1,0 +1,10 @@
+﻿{
+  "Name": "NoJealousy",
+  "Author": "PrismaticVoid",
+  "Version": "1.0.0",
+  "Description": "Your spouse will no longer get jealous over you giving other people gifts.",
+  "UniqueID": "PrismaticVoid.NoJealousy",
+  "EntryDll": "NoJealousy.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

@@ -22,7 +22,7 @@ namespace NoJealousy
             Monitor = monitor;
         }
 
-        public static bool Patch_Prefix(StardewValley.NPC __instance, Farmer who, ref bool __result)
+        public static bool Patch_Prefix(StardewValley.NPC __instance, Farmer who)
         {
             try
             {
